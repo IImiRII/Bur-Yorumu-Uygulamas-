@@ -1,0 +1,13 @@
+C:\Users\emirs\OneDrive\Masaüstü\Documents\Ders\Okul\6. Dönem\Görsel Programlama\GorselProgramlama\GorselProgramlamaUI\GOorselProgramlamaUI\GOorselProgramlamaUI\bin\Debug\GOorselProgramlamaUI.exe.config
+C:\Users\emirs\OneDrive\Masaüstü\Documents\Ders\Okul\6. Dönem\Görsel Programlama\GorselProgramlama\GorselProgramlamaUI\GOorselProgramlamaUI\GOorselProgramlamaUI\bin\Debug\GOorselProgramlamaUI.exe
+C:\Users\emirs\OneDrive\Masaüstü\Documents\Ders\Okul\6. Dönem\Görsel Programlama\GorselProgramlama\GorselProgramlamaUI\GOorselProgramlamaUI\GOorselProgramlamaUI\bin\Debug\GOorselProgramlamaUI.pdb
+C:\Users\emirs\OneDrive\Masaüstü\Documents\Ders\Okul\6. Dönem\Görsel Programlama\GorselProgramlama\GorselProgramlamaUI\GOorselProgramlamaUI\GOorselProgramlamaUI\obj\Debug\GOorselProgramlamaUI.csproj.AssemblyReference.cache
+C:\Users\emirs\OneDrive\Masaüstü\Documents\Ders\Okul\6. Dönem\Görsel Programlama\GorselProgramlama\GorselProgramlamaUI\GOorselProgramlamaUI\GOorselProgramlamaUI\obj\Debug\GOorselProgramlamaUI.Form1.resources
+C:\Users\emirs\OneDrive\Masaüstü\Documents\Ders\Okul\6. Dönem\Görsel Programlama\GorselProgramlama\GorselProgramlamaUI\GOorselProgramlamaUI\GOorselProgramlamaUI\obj\Debug\GOorselProgramlamaUI.Properties.Resources.resources
+C:\Users\emirs\OneDrive\Masaüstü\Documents\Ders\Okul\6. Dönem\Görsel Programlama\GorselProgramlama\GorselProgramlamaUI\GOorselProgramlamaUI\GOorselProgramlamaUI\obj\Debug\GOorselProgramlamaUI.csproj.GenerateResource.cache
+C:\Users\emirs\OneDrive\Masaüstü\Documents\Ders\Okul\6. Dönem\Görsel Programlama\GorselProgramlama\GorselProgramlamaUI\GOorselProgramlamaUI\GOorselProgramlamaUI\obj\Debug\GOorselProgramlamaUI.csproj.CoreCompileInputs.cache
+C:\Users\emirs\OneDrive\Masaüstü\Documents\Ders\Okul\6. Dönem\Görsel Programlama\GorselProgramlama\GorselProgramlamaUI\GOorselProgramlamaUI\GOorselProgramlamaUI\obj\Debug\GOorselProgramlamaUI.exe
+C:\Users\emirs\OneDrive\Masaüstü\Documents\Ders\Okul\6. Dönem\Görsel Programlama\GorselProgramlama\GorselProgramlamaUI\GOorselProgramlamaUI\GOorselProgramlamaUI\obj\Debug\GOorselProgramlamaUI.pdb
+C:\Users\emirs\OneDrive\Masaüstü\Documents\Ders\Okul\6. Dönem\Görsel Programlama\GorselProgramlama\GorselProgramlamaUI\GOorselProgramlamaUI\GOorselProgramlamaUI\bin\Debug\System.Data.SqlClient.dll
+C:\Users\emirs\OneDrive\Masaüstü\Documents\Ders\Okul\6. Dönem\Görsel Programlama\GorselProgramlama\GorselProgramlamaUI\GOorselProgramlamaUI\GOorselProgramlamaUI\bin\Debug\System.Data.SqlClient.xml
+C:\Users\emirs\OneDrive\Masaüstü\Documents\Ders\Okul\6. Dönem\Görsel Programlama\GorselProgramlama\GorselProgramlamaUI\GOorselProgramlamaUI\GOorselProgramlamaUI\obj\Debug\GOorselP.150D2817.Up2Date
